@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+rapidfuzz
+motor
+httpx
+passlib[bcrypt]
